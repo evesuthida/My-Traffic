@@ -48,7 +48,7 @@ public class MyAdapter extends BaseAdapter{
         View view1 = layoutInflater.inflate(R.layout.my_listview, viewGroup, false);
 
         //For Icon
-        ImageView iconImageView = (ImageView) view1.findViewById(R.id.imageView); //กำหนดชื่อ ID ให้ผูกกับตัว Widget
+        ImageView iconImageView = (ImageView) view1.findViewById(R.id.imageView); //ผูก imageview กับตัว Widget imageview
         iconImageView.setImageResource(iconInts[i]);
 
         //For Text
