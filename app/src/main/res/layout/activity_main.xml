@@ -37,5 +37,5 @@
         android:layout_above="@+id/button"
         android:layout_marginTop="20dp"
         android:layout_marginBottom="20dp"
-        android:background="#87FFFFFF" />
+        android:background="#82FFFFFF" />
 </RelativeLayout>
